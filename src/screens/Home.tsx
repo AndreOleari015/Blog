@@ -88,6 +88,7 @@ const styles = StyleSheet.create({
         justifyContent: "space-between",
     },
     headerTitle: {
+        fontSize: 18,
         color: COLORS.white,
         fontFamily: Fonts.fontLexend400
     },
