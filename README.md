@@ -9,7 +9,7 @@ Desafio_1 💻 Projeto. Esse desafio foi proposto pelo Luri Silva em seu canal d
 
 🔖 Layout do projeto | Versão MOBILE
 
-![Desafio 1](https://user-images.githubusercontent.com/63087627/192667129-c2003c0c-5416-42bb-9fbb-34aae5069d1b.png)
+![Desafio 1](https://user-images.githubusercontent.com/63087627/192668744-e33251bf-d1a8-4e0d-b30f-f11c30957c15.png)
 
 🔖 Layout do projeto | Versão WEB
 
